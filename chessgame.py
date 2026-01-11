@@ -1,2 +1,15 @@
-for i in range(10):
-    print("This is going to be a chess game")
+import pygame
+
+pawn
+knight
+bishop
+rook
+queen
+king
+
+player1
+player2
+
+captured
+
+
